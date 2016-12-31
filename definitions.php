@@ -397,7 +397,7 @@ $definitions["View %s's profile"] = "查看%s的资料";
 $definitions["View all notifications"] = "查看所有通知";
 $definitions["View more"] = "查看更多";
 $definitions["View your profile"] = "查看个人资料";
-$definitions["View"] = "View";
+$definitions["View"] = "查看";
 $definitions["Viewing: %s"] = "正在查看%s";
 $definitions["viewingPosts"] = "<b>%s-%s</b>%s发表的话题";
 
