@@ -1,7 +1,5 @@
 <?php
-// Copyright Xs_sunhb
-// This file is part of esoTalk. Please see the included license file for usage information.
-
+//Copyright Xs_sunhb
 //Chinese Definitions for the Debug plugin.
 
 $definitions["MySQL queries"] = "MySQL 查询";
