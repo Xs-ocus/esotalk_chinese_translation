@@ -10,4 +10,4 @@ Esotalk简体中文语言包
 ###安装
 很简单，直接在 addons/language 中新建一个名为“Chinese”的文件夹，将“definitions.php”粘贴至这个文件夹即可。
 ###错误报告
-如果有任何问题，可以到 [我的博客](http://sunhb.me/os-projects-recommend/esotalk) 留言，或直接在issues中反映。
+如果有任何问题，可以到 [我的博客](http://sunhb.me/works/os-projects-recommend/esotalk) 留言，或直接在issues中反映。
